@@ -23,6 +23,7 @@ To get started, in Learn click the GitHub button to go to Flatiron School's copy
 
 <img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/first-lab/GitHub.png" alt="Ironboard Labs Step 0">
 
+
 Next on Flatiron's Github page for the lab click the Fork button.
 
 <img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/Fork.png" alt="Ironboard Labs Step 1">
